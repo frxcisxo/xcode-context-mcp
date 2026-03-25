@@ -1,0 +1,22 @@
+// !$*UTF8*$!
+{
+  archiveVersion = 1;
+  classes = {};
+  objectVersion = 60;
+  objects = {
+    1234567890ABCDEF00000000 /* Build settings */ = {
+      isa = XCBuildConfiguration;
+      buildSettings = {
+        IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+        PRODUCT_BUNDLE_IDENTIFIER = com.example.demo;
+        SWIFT_VERSION = 5.0;
+        PRODUCT_NAME = DemoApp;
+        MARKETING_VERSION = 1.0;
+        CURRENT_PROJECT_VERSION = 1;
+        DEVELOPMENT_TEAM = ABCDE12345;
+      };
+      name = Debug;
+    };
+  };
+  rootObject = 1234567890ABCDEF00000000;
+}
